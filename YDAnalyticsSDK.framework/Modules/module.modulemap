@@ -1,0 +1,6 @@
+framework module YDAnalyticsSDK {
+  umbrella header "YDAnalyticsSDK.h"
+
+  export *
+  module * { export * }
+}
