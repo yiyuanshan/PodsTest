@@ -14,6 +14,6 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/yiyuanshan/PodsTest.git", :tag => "0.0.1" }
 
-  s.source_files  = "YDAnalyticsSDK", "*.framework"
+  s.source_files  = "YDAnalyticsSDK.framework"
   s.requires_arc = true
 end
