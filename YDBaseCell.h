@@ -9,4 +9,5 @@
 #import <UIKit/UIKit.h>
 
 @interface YDBaseCell : UITableViewCell
+
 @end

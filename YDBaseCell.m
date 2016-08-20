@@ -7,7 +7,8 @@
 //
 
 #import "YDBaseCell.h"
-@end
+
+
 
 @implementation YDBaseCell
 
