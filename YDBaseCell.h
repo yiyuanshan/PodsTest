@@ -9,5 +9,4 @@
 #import <UIKit/UIKit.h>
 
 @interface YDBaseCell : UITableViewCell
--(void)setLineWithTopLine:(BOOL)topLine showBottomLine:(BOOL)bottomLine;
 @end
